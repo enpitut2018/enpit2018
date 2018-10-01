@@ -57,6 +57,21 @@
 * Release: https://github.com/enpitut2018/TasCal/releases
 * Product Backlog: https://github.com/enpitut2018/TasCal/products
 
+### HelloIdea: アイデア創出プラットフォーム
+* チーム名：MyDry (九工大)
+* URL: https://helloidea.site/
+* Repository: https://github.com/MyDry/hello_idea
+* Release: https://github.com/MyDry/hello_idea/releases
+* Product Backlog: https://github.com/MyDry/hello_idea/projects/2
+
+### The CardGame: 自分で作るカードゲーム
+* チーム名：アジャリンGO（広島大）
+* URL: 
+* Repository: https://github.com/agilinGo/TheCardGame
+* Release: https://github.com/agilinGo/TheCardGame/releases
+* Product Backlog: https://github.com/agilinGo/TheCardGame/projects/1
+
+
 ## 夏までのプロダクト
 ### 管理人さん
  * チーム名：管理人さんチーム
