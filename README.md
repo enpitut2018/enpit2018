@@ -35,20 +35,21 @@
 * Release: https://github.com/enpitut2018/hakohugu_summer/releases
 * Product Backlog: https://github.com/enpitut2018/hakohugu_summer/projects
 
-### SUUM's
-* チーム名：IVY WEST 202
-* URL: https://ivy-west-summer-web.herokuapp.com/
-* URL(管理画面): https://ivy-west-summer-web.herokuapp.com/admin
-* Repository: https://github.com/enpitut2018/ivy-west-summer-web
-* Release: https://github.com/enpitut2018/ivy-west-summer-web/releases
-* Product Backlog: https://github.com/enpitut2018/ivy-west-summer-web/products
- 
 ### Tsukuba Sourcing
 * チーム名：vimacs
 * URL: https://sleepy-spire-33622.herokuapp.com/
 * Repository: https://github.com/enpitut2018/vimacs
 * Release: https://github.com/enpitut2018/vimacs/releases
 * Product Backlog: https://github.com/enpitut2018/vimacs/products
+
+### SUUM's
+* チーム名：IVY WEST 202 (enPiT1)
+* URL: https://ivy-west-summer-web.herokuapp.com/
+* URL(管理画面): https://ivy-west-summer-web.herokuapp.com/admin
+* Repository: https://github.com/enpitut2018/ivy-west-summer-web
+* Release: https://github.com/enpitut2018/ivy-west-summer-web/releases
+* Product Backlog: https://github.com/enpitut2018/ivy-west-summer-web/products
+ 
 
 ### TasCal：タスク進捗アプリ
 * チーム名：平成進捗Master (enPiT1)
