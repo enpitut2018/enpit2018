@@ -14,19 +14,18 @@
 * Releases: https://github.com/enpitut2018/kiminonaha/releases
 * Product Backlog: https://github.com/enpitut2018/kiminonaha/projects
 
+### TsuxiII
+* チーム名：泣くなつぐちゃん
+* Repository: https://github.com/enpitut2018/TsuxiII
+* Release: https://github.com/enpitut2018/tsuxiII/releases
+* Product Backlog: https://github.com/enpitut2018/tsuxiII/projects
+
 ### 言伝 -Kotozute-
 * チーム名：ささかまぼこ
 * URL: https://kotozute.herokuapp.com/
 * Repository: https://github.com/enpitut2018/kotozute
 * Release: https://github.com/enpitut2018/kotozute/releases
 * Product Backlog: https://github.com/enpitut2018/kotozute/projects
-
-### Tsuxi
-* チーム名：泣くなつぐちゃん
-* URL: https://fast-reef-57297.herokuapp.com/
-* Repository: https://github.com/enpitut2018/tsuxi
-* Release: https://github.com/enpitut2018/tsuxi/releases
-* Product Backlog: https://github.com/enpitut2018/tsuxi/projects
 
 ### CoMony
 * チーム名：ハコフグ feat. ゴンズイ玉
@@ -87,3 +86,10 @@
  * チーム名：アプリが決定します
  * Repository: https://github.com/enpitut2018/TeamDecision
  * URL: https://teammaker.gv.vc/ (Service Unavailable Now...)
+ 
+ ### Tsuxi
+* チーム名：泣くなつぐちゃん
+* URL: https://fast-reef-57297.herokuapp.com/
+* Repository: https://github.com/enpitut2018/tsuxi
+* Release: https://github.com/enpitut2018/tsuxi/releases
+* Product Backlog: https://github.com/enpitut2018/tsuxi/projects
