@@ -34,10 +34,9 @@
 * Release: https://github.com/enpitut2018/hakohugu_summer/releases
 * Product Backlog: https://github.com/enpitut2018/hakohugu_summer/projects
 
-### Tsukuba Sourcing
+### VideoSocialBookmark
 * チーム名：vimacs
-* URL: https://sleepy-spire-33622.herokuapp.com/
-* Repository: https://github.com/enpitut2018/vimacs
+* Repository: https://github.com/enpitut2018/VideoSocialBookmark
 * Release: https://github.com/enpitut2018/vimacs/releases
 * Product Backlog: https://github.com/enpitut2018/vimacs/products
 
@@ -93,3 +92,10 @@
 * Repository: https://github.com/enpitut2018/tsuxi
 * Release: https://github.com/enpitut2018/tsuxi/releases
 * Product Backlog: https://github.com/enpitut2018/tsuxi/projects
+
+### Tsukuba Sourcing
+* チーム名：vimacs
+* URL: https://sleepy-spire-33622.herokuapp.com/
+* Repository: https://github.com/enpitut2018/vimacs
+* Release: https://github.com/enpitut2018/vimacs/releases
+* Product Backlog: https://github.com/enpitut2018/vimacs/products
