@@ -27,12 +27,11 @@
 * Release: https://github.com/enpitut2018/kotozute/releases
 * Product Backlog: https://github.com/enpitut2018/kotozute/projects
 
-### CoMony
+### hakohugu_winter
 * チーム名：ハコフグ feat. ゴンズイ玉
-* URL: https://evening-headland-87531.herokuapp.com/
-* Repository: https://github.com/enpitut2018/hakohugu_summer
-* Release: https://github.com/enpitut2018/hakohugu_summer/releases
-* Product Backlog: https://github.com/enpitut2018/hakohugu_summer/projects
+* Repository: https://github.com/enpitut2018/hakohugu_winter
+* Release: https://github.com/enpitut2018/hakohugu_winter/releases
+* Product Backlog: https://github.com/enpitut2018/hakohugu_winter/projects
 
 ### VideoSocialBookmark
 * チーム名：vimacs
@@ -99,3 +98,10 @@
 * Repository: https://github.com/enpitut2018/vimacs
 * Release: https://github.com/enpitut2018/vimacs/releases
 * Product Backlog: https://github.com/enpitut2018/vimacs/products
+
+### CoMony
+* チーム名：ハコフグ feat. ゴンズイ玉
+* URL: https://evening-headland-87531.herokuapp.com/
+* Repository: https://github.com/enpitut2018/hakohugu_summer
+* Release: https://github.com/enpitut2018/hakohugu_summer/releases
+* Product Backlog: https://github.com/enpitut2018/hakohugu_summer/projects
