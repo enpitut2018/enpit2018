@@ -39,15 +39,12 @@
 * Release: https://github.com/enpitut2018/VideoSocialBookmark/releases
 * Product Backlog: https://github.com/enpitut2018/VideoSocialBookmark/products
 
-### SUUM's
+### IvyWestWinterFront
 * チーム名：IVY WEST 202 (enPiT1)
-* URL: https://ivy-west-summer-web.herokuapp.com/
-* URL(管理画面): https://ivy-west-summer-web.herokuapp.com/admin
-* Repository: https://github.com/enpitut2018/ivy-west-summer-web
-* Release: https://github.com/enpitut2018/ivy-west-summer-web/releases
-* Product Backlog: https://github.com/enpitut2018/ivy-west-summer-web/products
+* Repository: https://github.com/enpitut2018/IvyWestWinterFront
+* Release: https://github.com/enpitut2018/ivy-west-winter-web/releases
+* Product Backlog: https://github.com/enpitut2018/ivy-west-winter-web/products
  
-
 ### TasCal：タスク進捗アプリ
 * チーム名：平成進捗Master (enPiT1)
 * URL: https://enpit-tascal.herokuapp.com/
@@ -105,3 +102,11 @@
 * Repository: https://github.com/enpitut2018/hakohugu_summer
 * Release: https://github.com/enpitut2018/hakohugu_summer/releases
 * Product Backlog: https://github.com/enpitut2018/hakohugu_summer/projects
+
+### SUUM's
+* チーム名：IVY WEST 202 (enPiT1)
+* URL: https://ivy-west-summer-web.herokuapp.com/
+* URL(管理画面): https://ivy-west-summer-web.herokuapp.com/admin
+* Repository: https://github.com/enpitut2018/ivy-west-summer-web
+* Release: https://github.com/enpitut2018/ivy-west-summer-web/releases
+* Product Backlog: https://github.com/enpitut2018/ivy-west-summer-web/products
