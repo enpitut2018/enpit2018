@@ -37,8 +37,8 @@
 ### VideoSocialBookmark
 * チーム名：vimacs
 * Repository: https://github.com/enpitut2018/VideoSocialBookmark
-* Release: https://github.com/enpitut2018/vimacs/releases
-* Product Backlog: https://github.com/enpitut2018/vimacs/products
+* Release: https://github.com/enpitut2018/VideoSocialBookmark/releases
+* Product Backlog: https://github.com/enpitut2018/VideoSocialBookmark/products
 
 ### SUUM's
 * チーム名：IVY WEST 202 (enPiT1)
