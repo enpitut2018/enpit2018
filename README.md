@@ -7,15 +7,17 @@
 * Releases: https://github.com/enpitut2018/task_driver/releases
 * Product Backlog: https://github.com/enpitut2018/task_driver/projects
 
-### 君の名は！
+### Colatter
 * チーム名：君の名は？
-* URL: https://team-kiminonaha.herokuapp.com/
-* Repository: https://github.com/enpitut2018/kiminonaha
-* Releases: https://github.com/enpitut2018/kiminonaha/releases
-* Product Backlog: https://github.com/enpitut2018/kiminonaha/projects
+* URL: 
+* Repository: https://github.com/enpitut2018/colatter (private)
+* Releases: https://github.com/enpitut2018/colatter/releases
+* Product Backlog: https://github.com/enpitut2018/colatter/projects
+
 
 ### TsuxiII
 * チーム名：泣くなつぐちゃん
+* URL: 
 * Repository: https://github.com/enpitut2018/TsuxiII
 * Release: https://github.com/enpitut2018/tsuxiII/releases
 * Product Backlog: https://github.com/enpitut2018/tsuxiII/projects
@@ -29,18 +31,21 @@
 
 ### hakohugu_winter
 * チーム名：ハコフグ feat. ゴンズイ玉
+* URL: 
 * Repository: https://github.com/enpitut2018/hakohugu_winter
 * Release: https://github.com/enpitut2018/hakohugu_winter/releases
 * Product Backlog: https://github.com/enpitut2018/hakohugu_winter/projects
 
 ### VideoSocialBookmark
 * チーム名：vimacs
+* URL: 
 * Repository: https://github.com/enpitut2018/VideoSocialBookmark
 * Release: https://github.com/enpitut2018/VideoSocialBookmark/releases
 * Product Backlog: https://github.com/enpitut2018/VideoSocialBookmark/products
 
 ### IvyWestWinterFront
 * チーム名：IVY WEST 202 (enPiT1)
+* URL: 
 * Repository: https://github.com/enpitut2018/IvyWestWinterFront
 * Release: https://github.com/enpitut2018/ivy-west-winter-web/releases
 * Product Backlog: https://github.com/enpitut2018/ivy-west-winter-web/products
@@ -110,3 +115,11 @@
 * Repository: https://github.com/enpitut2018/ivy-west-summer-web
 * Release: https://github.com/enpitut2018/ivy-west-summer-web/releases
 * Product Backlog: https://github.com/enpitut2018/ivy-west-summer-web/products
+
+### 君の名は！
+* チーム名：君の名は？
+* URL: https://team-kiminonaha.herokuapp.com/
+* Repository: https://github.com/enpitut2018/kiminonaha
+* Releases: https://github.com/enpitut2018/kiminonaha/releases
+* Product Backlog: https://github.com/enpitut2018/kiminonaha/projects
+
