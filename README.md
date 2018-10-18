@@ -38,8 +38,10 @@
 
 ### VideoSocialBookmark
 * チーム名：vimacs
-* URL: 
-* Repository: https://github.com/enpitut2018/VideoSocialBookmark
+* URL: https://video-social-bookmark.herokuapp.com/
+* Repository: 
+   * https://github.com/enpitut2018/VideoSocialBookmark
+   * https://github.com/enpitut2018/VideoSocialBookmarkFrontend
 * Release: https://github.com/enpitut2018/VideoSocialBookmark/releases
 * Product Backlog: https://github.com/enpitut2018/VideoSocialBookmark/products
 
