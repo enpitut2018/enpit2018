@@ -27,7 +27,7 @@
 * URL: https://kotozute.herokuapp.com/
 * Repository: https://github.com/enpitut2018/kotozute
 * Release: https://github.com/enpitut2018/kotozute/releases
-* Product Backlog: https://github.com/enpitut2018/kotozute/projects
+* Product Backlog: https://github.com/enpitut2018/kotozute/projects/1
 
 ### hakohugu_winter
 * チーム名：ハコフグ feat. ゴンズイ玉
