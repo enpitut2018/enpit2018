@@ -5,7 +5,7 @@
 * URL: https://task-driver.sukiyaki.party/
 * Repository: https://github.com/enpitut2018/task_driver
 * Releases: https://github.com/enpitut2018/task_driver/releases
-* Product Backlog: https://github.com/enpitut2018/task_driver/projects
+* Product Backlog: https://github.com/enpitut2018/task_driver/projects/1
 
 ### Colatter
 * チーム名：君の名は？
