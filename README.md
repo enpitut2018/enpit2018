@@ -42,8 +42,9 @@
 * Repository: 
    * https://github.com/enpitut2018/VideoSocialBookmark
    * https://github.com/enpitut2018/VideoSocialBookmarkFrontend
+   * https://github.com/enpitut2018/VideoSocialBookmarkChromeExtension
 * Release: https://github.com/enpitut2018/VideoSocialBookmark/releases
-* Product Backlog: https://github.com/enpitut2018/VideoSocialBookmark/products
+* Product Backlog: https://github.com/enpitut2018/VideoSocialBookmark/projects/2
 
 ### IvyWestWinterFront
 * チーム名：IVY WEST 202 (enPiT1)
