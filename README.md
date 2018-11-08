@@ -14,7 +14,6 @@
 * Releases: https://github.com/enpitut2018/colatter/releases
 * Product Backlog: https://github.com/enpitut2018/colatter/projects
 
-
 ### TsuxiII
 * チーム名：泣くなつぐちゃん
 * URL: 
@@ -34,7 +33,7 @@
 * URL: 
 * Repository: https://github.com/enpitut2018/hakohugu_winter
 * Release: https://github.com/enpitut2018/hakohugu_winter/releases
-* Product Backlog: https://github.com/enpitut2018/hakohugu_winter/projects
+* Product Backlog: https://github.com/enpitut2018/hakohugu_winter/projects/1
 
 ### VideoSocialBookmark
 * チーム名：vimacs
