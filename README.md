@@ -28,9 +28,9 @@
 * Release: https://github.com/enpitut2018/kotozute/releases
 * Product Backlog: https://github.com/enpitut2018/kotozute/projects/1
 
-### hakohugu_winter
+### Cogito
 * チーム名：ハコフグ feat. ゴンズイ玉
-* URL: 
+* URL: https://cryptic-journey-91456.herokuapp.com/?template_id=1
 * Repository: https://github.com/enpitut2018/hakohugu_winter
 * Release: https://github.com/enpitut2018/hakohugu_winter/releases
 * Product Backlog: https://github.com/enpitut2018/hakohugu_winter/projects/1
