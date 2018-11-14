@@ -10,7 +10,7 @@
 ### Colatter
 * チーム名：君の名は？
 * URL: 
-* Repository: https://github.com/enpitut2018/colatter (private)
+* Repository: https://github.com/enpitut2018/colatter
 * Releases: https://github.com/enpitut2018/colatter/releases
 * Product Backlog: https://github.com/enpitut2018/colatter/projects
 
@@ -68,7 +68,7 @@
 
 ### The CardGame: 自分で作るカードゲーム
 * チーム名：アジャリンGO（広島大）
-* URL: 
+* URL: https://agilingo.github.io/TheCardGame/fire/public/index.html
 * Repository: https://github.com/agilinGo/TheCardGame
 * Release: https://github.com/agilinGo/TheCardGame/releases
 * Product Backlog: https://github.com/agilinGo/TheCardGame/projects/1
