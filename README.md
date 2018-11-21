@@ -1,6 +1,6 @@
 # enPiT 筑波大 2018 
 
-### task driver
+### Folivora
 * チーム名：タスクドラゴンナイト
 * URL: https://task-driver.sukiyaki.party/
 * Repository: https://github.com/enpitut2018/task_driver
