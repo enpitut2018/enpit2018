@@ -1,7 +1,7 @@
 # enPiT 筑波大 2018 
 
 ### task driver
-* チーム名：ADHD予美軍
+* チーム名：タスクドラゴンナイト
 * URL: https://task-driver.sukiyaki.party/
 * Repository: https://github.com/enpitut2018/task_driver
 * Releases: https://github.com/enpitut2018/task_driver/releases
