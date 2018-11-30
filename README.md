@@ -9,14 +9,14 @@
 
 ### Colatter
 * チーム名：君の名は？
-* URL: 
+* URL: https://collatter18.herokuapp.com/
 * Repository: https://github.com/enpitut2018/colatter
 * Releases: https://github.com/enpitut2018/colatter/releases
 * Product Backlog: https://github.com/enpitut2018/colatter/projects
 
 ### TsuxiII
 * チーム名：泣くなつぐちゃん
-* URL: 
+* URL: https://tsuxiii.herokuapp.com
 * Repository: https://github.com/enpitut2018/TsuxiII
 * Release: https://github.com/enpitut2018/tsuxiII/releases
 * Product Backlog: https://github.com/enpitut2018/tsuxiII/projects
