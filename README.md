@@ -30,7 +30,7 @@
 
 ### Cogito
 * チーム名：ハコフグ feat. ゴンズイ玉
-* URL: https://cryptic-journey-91456.herokuapp.com/?template_id=1
+* URL: https://vast-sands-25464.herokuapp.com/
 * Repository: https://github.com/enpitut2018/hakohugu_winter
 * Release: https://github.com/enpitut2018/hakohugu_winter/releases
 * Product Backlog: https://github.com/enpitut2018/hakohugu_winter/projects/1
